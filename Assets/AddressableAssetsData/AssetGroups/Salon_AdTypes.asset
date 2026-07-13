@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Salon_AdTypes
+  m_EditorClassIdentifier: 
+  m_GroupName: Salon_AdTypes
+  m_GUID: ca741598d6bc3a64bbd827eac17c46c5
+  m_SerializeEntries:
+  - m_GUID: 0470c87d86da1c847bb2c045cbe2d0ce
+    m_Address: SalonAds_Rewarded
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d2c3c283f78a0e43bbb6ca170d40674
+    m_Address: SalonAds_Banner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e12013eff1e6504ca39b61765df95e8
+    m_Address: SalonAds_Interstitial_landscape
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78eb89ea6d6ac444e8d439e1c321c6e6
+    m_Address: SalonAds_Interstitial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91f95585a50802047a029881c564e313
+    m_Address: SalonAds_PopAd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 955f21ac495693343835fc20f1853e81
+    m_Address: SalonAds_LargeBanner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9f33d7a546aa5242aa1a4f2a6375c84
+    m_Address: SalonAds_Rewarded_landscape
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aa7d9f55d7635cb429ff1302e642aa46, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3f55fd6ac2dedc143b9c6492ce148141, type: 2}
+    - {fileID: 11400000, guid: 1c14462a829ab6743ae7da066e45303c, type: 2}

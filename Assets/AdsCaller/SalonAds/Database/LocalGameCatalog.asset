@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55f33764c2ce7948840652233acdd30, type: 3}
+  m_Name: LocalGameCatalog
+  m_EditorClassIdentifier: 
+  gameEntries:
+  - gameName: FoodStandPro
+    gamePackageName: com.sharkfingames.food.stand
+    asin: B0G3Z6SCJL
+    gameImageSequence: 0
+    gameBannerImages:
+    - {fileID: 21300000, guid: f563b9bc37270714daf38fe2a54b2403, type: 3}
+    - {fileID: 21300000, guid: c49829a404012a347bfdc3c34d05a3b5, type: 3}
+    gameInterstitialImages:
+    - {fileID: 21300000, guid: fcb2a7605ea1d244a8496ba1667f4667, type: 3}
+    - {fileID: 21300000, guid: e5738c923d2f9a94987ac81bf1dcd4e5, type: 3}
+    gameInterstitialVideos: []
+    gameRewardedImages: []
+    gameRewardedVideos: []
+    gameLargeBannerImages:
+    - {fileID: 21300000, guid: 9d68577616a707940a8fdfeae4b0f684, type: 3}
+    - {fileID: 21300000, guid: f147d9ca0c059b74690a0bde1c61fd63, type: 3}
+    gamePopAdImages:
+    - {fileID: 21300000, guid: 322791be712344446a1be56e9e78cac4, type: 3}
+    remoteInterstitialVideoURLs: []
+    remoteRewardedVideoURLs: []
+  - gameName: PunchNSmash
+    gamePackageName: com.oscar.punch.n.hit.master
+    asin: B0FR54G5FD
+    gameImageSequence: 0
+    gameBannerImages:
+    - {fileID: 21300000, guid: cbd3a8904a0e1b843a68eefe79487f4a, type: 3}
+    gameInterstitialImages:
+    - {fileID: 21300000, guid: 66db473842dc3e64ca0a8ca33fc45a26, type: 3}
+    gameInterstitialVideos: []
+    gameRewardedImages: []
+    gameRewardedVideos: []
+    gameLargeBannerImages:
+    - {fileID: 21300000, guid: 12890e91646f67a4594e945ac0dabe10, type: 3}
+    gamePopAdImages:
+    - {fileID: 21300000, guid: 5060c7408f5500c4fb8dc2d499e8aa75, type: 3}
+    remoteInterstitialVideoURLs: []
+    remoteRewardedVideoURLs: []
+  - gameName: RagdollSmash
+    gamePackageName: com.oscar.ragdoll.killer.destroy
+    asin: B0FR1ZJC5Y
+    gameImageSequence: 0
+    gameBannerImages:
+    - {fileID: 21300000, guid: a141fd992fb59b041bf0fe6ccfb3a5e3, type: 3}
+    gameInterstitialImages:
+    - {fileID: 21300000, guid: 3b253c9427a056541a22b40fadf5767f, type: 3}
+    gameInterstitialVideos: []
+    gameRewardedImages: []
+    gameRewardedVideos: []
+    gameLargeBannerImages:
+    - {fileID: 21300000, guid: 6e407868406dc964783111954f064e39, type: 3}
+    gamePopAdImages:
+    - {fileID: 21300000, guid: 8088f77ac5ba7134dad8073b4c7b7c76, type: 3}
+    remoteInterstitialVideoURLs: []
+    remoteRewardedVideoURLs: []
+  - gameName: TruckParking
+    gamePackageName: com.sharkfingames.truck.parking.challenge
+    asin: B0GCDYHXYM
+    gameImageSequence: 0
+    gameBannerImages:
+    - {fileID: 21300000, guid: f64f0121bfc9ac843983330c8cf8fe50, type: 3}
+    gameInterstitialImages:
+    - {fileID: 21300000, guid: 385fcb5580e52f44580ec7ce874ed04c, type: 3}
+    gameInterstitialVideos: []
+    gameRewardedImages: []
+    gameRewardedVideos: []
+    gameLargeBannerImages:
+    - {fileID: 21300000, guid: b80e3fb937a484045ae5215d6e7f80ef, type: 3}
+    gamePopAdImages:
+    - {fileID: 21300000, guid: 0eec82e1ea13cb1428a74454eed2eea4, type: 3}
+    remoteInterstitialVideoURLs: []
+    remoteRewardedVideoURLs: []
